@@ -11,7 +11,6 @@ typedef pair<int,int> pii;
 #define sc second
 #define all(x) (x).begin(), (x).end()
 
-
 #define IN "A.IN"
 #define OUT "A.OUT"
 #define cerr if(0) cerr
